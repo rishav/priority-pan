@@ -18,7 +18,7 @@ development:
   adapter: mysql
   encoding: utf8
   reconnect: false
-  database: priority_pan_development
+  database: priority-pan_development
   pool: 5
   username: root
   password: password
@@ -31,7 +31,7 @@ test:
   adapter: mysql
   encoding: utf8
   reconnect: false
-  database: priority_pan_test
+  database: priority-pan_test
   pool: 5
   username: root
   password: password
@@ -41,7 +41,7 @@ production:
   adapter: mysql
   encoding: utf8
   reconnect: false
-  database: priority_pan_production
+  database: priority-pan_production
   pool: 5
   username: root
   password: password
