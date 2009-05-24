@@ -1,3 +1,4 @@
 *.log
 schema.rb
 config/database.yml
+*.*~
